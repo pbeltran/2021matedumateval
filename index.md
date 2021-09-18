@@ -12,45 +12,152 @@ description: Materiales distribuidos bajo licencia CC-BY-SA-4.0
 
 ---
 
-# Introducción {data-background-image="assets/intro.jpg" data-background-opacity="0.22"}
+# ¿De qué vamos a hablar? {data-background-image="assets/intro.jpg" data-background-opacity="0.22"}
 
-## La evaluación como calificación o la calificación como evaluación {data-background-image="assets/intro.jpg" data-background-opacity="0.18"}
+## Del programa del encuentro...  {data-background-image="assets/intro.jpg" data-background-opacity="0.18"}
 
-![](assets/images/think.jpg){width=60%}
+Investigación en didáctica de la matemática y práctica de aula
 
-
-## {data-background-image="assets/intro.jpg" data-background-opacity="0.18"}
-
-![](assets/images/butler06.png){width=60%}
-
-Sin hacer spoiler, no avances de diapositiva en diapositiva hasta que hayas pensado qué pueden significar las etiquetas que faltan. ¿Qué observas?
-
-## {data-background-image="assets/intro.jpg" data-background-opacity="0.18"}
-
-![](assets/images/butler05.png){width=80%}
-
-## {data-background-image="assets/intro.jpg" data-background-opacity="0.18"}
-
-![](assets/images/butler04.png){width=80%}
-
-## {data-background-image="assets/intro.jpg" data-background-opacity="0.18"}
-
-![](assets/images/butler03.png){width=80%}
+> En este sentido consideramos que estos espacios de diálogo entre la investigación y la docencia son indispensables para establecer redes de apoyo y espacios abiertos para compartir conocimientos, haciendo que los resultados de estudios teóricos y empíricos puedan impactar en las aulas reales.
 
 
-## {data-background-image="assets/intro.jpg" data-background-opacity="0.18"}
+## ¿Qué es evaluar? {data-background-image="assets/intro.jpg" data-background-opacity="0.18"}
 
-![](assets/images/butler02.png){width=80%}
+:::::::::::::: {.columns}
+
+::: {.column width="69%"}
+
+La evaluación en clase se refiere a las actividades que se realizan para obtener e interpretar evidencias de aprendizaje de los estudiantes y al uso que se hace de esta evidencia para llevar a cabo las acciones correspondientes (Goos, 2014).
+
+- Certificar (sumativa)
+- **Facilitar aprendizaje (formativa)** :point_left:
+- Evaluar programas.
 
 
-## {data-background-image="assets/intro.jpg" data-background-opacity="0.18"}
+:::
 
-![](assets/images/butler01.png){width=80%}
+::: {.column width="29%"}
 
-## {data-background-image="assets/intro.jpg" data-background-opacity="0.18"}
+![](assets/images/encyclopedia.jpg){width=90%}  
 
-![](assets/images/butler00.png){width=80%}
+:::
+:::::::::::::
 
+## Objetivos y características de la evaluación {data-background-image="assets/intro.jpg" data-background-opacity="0.18"}
+
+:::::::::::::: {.columns}
+
+::: {.column width="49%"}
+
+> Liljedahl (2010)
+
+- Comunicar.
+- Valorar lo que enseñamos.
+- Informar/certificar: calificar.
+- No clasificar ni ordenar (anti-objetivo).
+
+:::
+
+::: {.column width="49%"}
+
+> Assessment Standards for School Mathematics (NCTM, 1995)
+
+- Reflejar lo que los estudiantes deberían saber y ser capaces de hacer.
+- Mejorar el aprendizaje.
+- Promover la equidad.
+- Ser un proceso abierto.
+- Servir de inferencia válida.
+- Ser un proceso coherente.
+
+:::
+:::::::::::::
+
+
+## Integrar la evaluación {data-background-image="assets/intro.jpg" data-background-opacity="0.18"}
+
+:::::::::::::: {.columns}
+
+::: {.column width="59%"}
+
+> Técnicas posibles
+
+- Preguntas abiertas.
+- Invención de problemas.
+- Cuadernos y portafolios.
+- Tareas donde hay que elaborar una respuesta.
+- Observación de aula.
+- Conversaciones.
+- Cuestionarios.
+- Etc.
+
+:::
+
+::: {.column width="39%"}
+
+![](assets/images/nctmassess1.png){width=98%}
+
+NCTM (2000, p. 23)
+
+:::
+:::::::::::::
+
+
+## Coherencia {data-background-image="assets/intro.jpg" data-background-opacity="0.18"}
+
+Goos (2000) en su artículo en la *Encyclopedia of Mathematics Education* hace una revisión de diferentes trabajos:
+
+- La evaluación debe ser epistemológicamente coherente con la enseñanza. 
+- Shepard (2000) señala que eso fue así durante gran parte del siglo XX. Desarrollo de la idea de tests «objetivos» como el principal medio de evaluar el desempeño del alumnado.
+- Los tests que apenas requieren de la evocación de hechos y procedimientos siguen siendo muy comunes (año 2000, pero en España tenemos, por ejemplo, las pruebas de acceso a la universidad).
+- Actualmente, las orientaciones y normas curriculares se basan en principios socio-constructivistas del aprendizaje.
+
+
+## Coherencia {data-background-image="assets/intro.jpg" data-background-opacity="0.18"}
+
+:::::::::::::: {.columns}
+
+::: {.column width="59%"}
+
+> van den Heuvel-Panhuizen y Becker (2003) se expresan en términos similares al respecto del uso dominante de tests fuertemente estandarizados.
+
+- Limitan el acceso a la comprensión de los estudiantes.
+- Están muy basados en un modelo psicométrico del aprendizaje más que en un diseño evaluativo desde la didáctica específica.
+
+:::
+
+::: {.column width="39%"}
+
+![](assets/images/bandera.png){width=98%}
+
+
+:::
+:::::::::::::
+
+## ¿Y qué ocurre en las aulas? {data-background-image="assets/intro.jpg" data-background-opacity="0.18"}
+
+> Ohlsen (2007) realizó un estudio para indagar las prácticas evaluativas de los socios del NCTM, detectando una clara predominancia de técnicas «tradicionales» sobre evaluaciones de tipo formativo.
+
+- Este fenómeno se relaciona con el problema de calificar. La administración en sí no es coherente y exige una calificación numérica.
+- Se relaciona con el mito de que enseñar para la comprensión es incompatible con evaluaciones externas (tipo pruebas de acceso). Wiliam y otros lo desmienten.
+
+
+## Es un problema complejo  {data-background-image="assets/intro.jpg" data-background-opacity="0.18"}
+
+- Alumnado y familias pueden sentirse *incómodos* cuando se emplean diversas formas de evaluación más cualitativa y formativa. 
+- El profesorado precisa colaboración desde la administración para ayudar a comprender la utilidad y necesidad de estos enfoques (NCTM, 2000, p. 372).
+
+
+## Objetivos de la calificación {data-background-image="assets/intro.jpg" data-background-opacity="0.18"}
+
+![](assets/images/butler00.png){width=65%}
+
+Butler (1988)
+
+## Importancia del feedback {data-background-image="assets/intro.jpg" data-background-opacity="0.18"}
+
+> Realimentación, comentarios, etc.
+
+El feedback en evaluación puede ayudar al alumnado a fijar objetivos, asumir responsabilidad en su aprendizaje y desarrollar autonomía en el proceso de enseñanza y aprendizaje (NCTM, 2000).
 
 ## La evaluación como algo objetivo {data-background-image="assets/intro.jpg" data-background-opacity="0.18"}
 
@@ -71,63 +178,28 @@ Arnal-Bailera, Muñoz-Escolano, & Oller-Marcén (2016) dieron a calificar tres r
 
 ## Método 1 {data-background-image="assets/intro.jpg" data-background-opacity="0.18"}
 
-![](assets/images/metodo1.png){width=65%}
-
-Fuente: Arnal-Bailera, Muñoz-Escolano, & Oller-Marcén (2016)
+![](assets/images/metodo1.png){width=75%}
 
 ## Método 2 {data-background-image="assets/intro.jpg" data-background-opacity="0.18"}
 
-![](assets/images/metodo2.png){width=80%}
+![](assets/images/metodo2.png){width=90%}
 
-Fuente: Arnal-Bailera, Muñoz-Escolano, & Oller-Marcén (2016)
 
 ## Método 3 {data-background-image="assets/intro.jpg" data-background-opacity="0.18"}
  
-![](assets/images/metodo3.png){width=80%}
+![](assets/images/metodo3.png){width=90%}
 
-Fuente: Arnal-Bailera, Muñoz-Escolano, & Oller-Marcén (2016)
 
-## Muestra {data-background-image="assets/intro.jpg" data-background-opacity="0.18"}
-
-> Compuesta por 91 profesores de matemáticas (en ejercicio y en formación)
-
-- 26 profesores en formación que cursaron el Máster del Profesorado (Matemáticas).
-- 45 profesores de ESO y Bachillerato de 14 centros educativos aragoneses y con diferentes años de experiencia.
-- 20 profesores de universidad, matemáticos de formación que imparten o han impartido clase en licenciaturas y grados de matemáticas.
-
-## Resultados {data-background-image="assets/intro.jpg" data-background-opacity="0.18"}
-
-- Conglomerado 1. Puntúan bajo el método 2 y el método 3. Solamente dan por totalmente correcto el método 1.
-- Conglomerado 2. Puntúan alto los tres métodos propuestos. Concentra algo más de la mitad de los profesores.
-- Conglomerado 3. Puntúan bajo el método 3 y puntúan alto los métodos 1 y 2. Reúne la tercera parte de los profesores.
-
-## Resultados {data-background-image="assets/intro.jpg" data-background-opacity="0.18"}
+## Algunos resultados {data-background-image="assets/intro.jpg" data-background-opacity="0.18"}
 
 :::incremental
 
-- Método 1: No se observan diferencias estadísticamente significativas entre las calificaciones otorgadas por los distintos colectivos.
-- Método 2: se puede afirmar (nivel de confianza del 99%) que el profesorado de universidad otorga una calificación mayor que los profesores en formación. Aunque la nota media otorgada por el profesorado de ESO también es mayor que la de los profesores en formación, esta diferencia no resulta ser significativa. No hay diferencias entre el profesorado de ESO y el de Universidad. 
-- Método 3: el profesorado de universidad otorga calificaciones mayores (nivel de confianza del 95%) que los otros dos colectivos. Los profesores en formación otorgan mayores calificaciones (nivel de confianza del 90%) que el profesorado de ESO.
 - Pobre fiabilidad interjueces.
-:::
-
-## En los profesores de secundaria {data-background-image="assets/intro.jpg" data-background-opacity="0.18"}
-
-> Tres grupos de profesores en base a sus comentarios, según la argumentación empleada por el alumno, la corrección matemática de la respuesta y la concordancia entre el método empleado y el esperado. 
-
-1. Elevada exigencia de argumentación, proporciona las calificaciones más bajas. 
-2. Considera adecuadas la argumentación y la corrección matemática de los tres métodos, muestra un ligero sesgo en contra de la respuesta del método 3. 
-3. Clara penalización a la respuesta del método 3.
-
-
-## Otros resultados {data-background-image="assets/intro.jpg" data-background-opacity="0.18"}
-
-:::incremental
-- En cuanto a los años de experiencia docente en secundaria, aunque se aprecian diferencias entre cada conglomerado, estas no han resultado ser estadísticamente significativas.
 - La calificación otorgada por gran parte de los correctores es mayor cuando se utilizan métodos más cercanos al modo de hacer y a la experiencia docente del corrector.
 - En muchos casos no hacen explícita esta preferencia y ofrecen distintas justificaciones.
 - Algunos correctores señalan que el método elegido no es *matemáticamente correcto* lo cual no es cierto y apuntaría a un déficit de conocimiento matemático por parte del corrector. 
 - Otros, aun admitiendo la corrección y la adecuación del método, exigen una mayor argumentación en la respuesta que no suele ser exigida cuando otro estudiante opta por un método esperado por el corrector.
+
 :::
 
 
@@ -139,8 +211,54 @@ Estos autores, y sus colaboradores, se han preocupado por la cuestión de la cor
 
 Fuente: Gairín, Muñoz-Escolano, Oller-Marcén (2012)
 
+## ¿Qué hacer con lo de la calificación?  {data-background-image="assets/intro.jpg" data-background-opacity="0.18"}
+
+
+> Liljedahl(2010), ante la cuestión de que la normativa suele ser confusa... 
+
+... invita al profesorado a ver esto como una liberación y a sentirse libre a argumentar las calificaciones de su alumnado a partir de las evidencias de aprendizaje.
+
+
 
 # A través {data-background-image="assets/clase.jpg" data-background-opacity="0.18"}
+
+
+## ¿Qué es enseñar a través de la resolución de problemas? {data-background-image="assets/clase.jpg" data-background-opacity="0.12"}
+
+:::::::::::::: {.columns}
+
+::: {.column width="45%"}
+
+![](assets/images/clase_censored.jpg){width=100%}
+
+:::
+
+::: {.column width="45%"}
+
+![](assets/images/ana_censored.jpg){width=100%}
+
+:::
+
+::::::::::::::
+
+## ¿Qué es enseñar a través de la resolución de problemas? {data-background-image="assets/clase.jpg" data-background-opacity="0.12"}
+
+:::::::::::::: {.columns}
+
+::: {.column width="25%"}
+
+![](assets/images/andamio.jpg){width=100%}
+
+:::
+
+::: {.column width="70%"}
+
+- Sintetizando mucho, consiste en utilizar problemas (en sentido amplio, tareas o situaciones-problema) de los que emerge el contenido matemático. 
+- Mediante el trabajo en pequeños grupos y las posteriores puestas en común, el docente proporciona un andamiaje para profundizar en dichos contenidos, siempre a partir de los significados personales del alumnado.
+
+:::
+
+::::::::::::::
 
 
 ## Empezamos con situaciones-problema {data-background-image="assets/clase.jpg" data-background-opacity="0.12"}
@@ -149,6 +267,8 @@ Fuente: Gairín, Muñoz-Escolano, Oller-Marcén (2012)
 1. Laura se llevó sus cromos al colegio para jugar varias partidas. En la primera perdió 9 cromos y en la segunda ganó 7 cromos. ¿Cuántos cromos le quedaron después de jugar?
 2. Un tren sale de Zaragoza con cierto número de pasajeros y llega a Barcelona después de hacer dos paradas. En la primera parada, bajan 15 y suben 12 pasajeros; en la segunda parada, bajan 38 y suben 42 pasajeros. ¿Con cuántos pasajeros llegó el tren a Barcelona?
 :::
+
+Fuente: Cid (2015)
 
 ##
 
@@ -207,52 +327,6 @@ En el escaparate de una papelería hay cinco cajas de rotuladores, A, B, C, D y 
 
 
 
-## ¿Qué es enseñar a través de la resolución de problemas? {data-background-image="assets/clase.jpg" data-background-opacity="0.12"}
-
-:::::::::::::: {.columns}
-
-::: {.column width="25%"}
-
-![](assets/images/andamio.jpg){width=100%}
-
-:::
-
-::: {.column width="70%"}
-
-- Sintetizando mucho, este enfoque consiste en utilizar problemas (en sentido amplio, tareas o situaciones-problema) de los que emerge el contenido matemático. 
-- Mediante el trabajo en pequeños grupos y las posteriores puestas en común, el docente proporciona un andamiaje para profundizar en dichos contenidos, siempre a partir de los significados personales del alumnado.
-
-:::
-
-::::::::::::::
-
-## Guía para las discusiones de aula {data-background-image="assets/clase.jpg" data-background-opacity="0.12"}
-
-- Ser sobre todo un **moderador** o **facilitador**.
-- Ser ocasionalmente un **interrogador** o **provocador**.
-- Nunca ser un **juez** o **evaluador**.
-
-Fuente: Swan (1989).
-
-## ¿Qué es enseñar a través de la resolución de problemas? {data-background-image="assets/clase.jpg" data-background-opacity="0.12"}
-
-:::::::::::::: {.columns}
-
-::: {.column width="45%"}
-
-![](assets/images/clase_censored.jpg){width=100%}
-
-:::
-
-::: {.column width="45%"}
-
-![](assets/images/ana_censored.jpg){width=100%}
-
-:::
-
-::::::::::::::
-
-
 ## Reflexiones en torno a la evaluación y calificación {data-background-image="assets/observation.jpg" data-background-opacity="0.12"}
 
 :::::::::::::: {.columns}
@@ -285,9 +359,9 @@ Aquí las reflexiones (después del confinamiento).
 
 > ¿Cómo mantener activo al alumnado? ¿Cómo seguir trabajando la capacidad de indagación? ¿Cómo seguir desarrollando esa **actitud matemática**?
 
-- Agrupación por nivel. 
-	- Una clase virtual para todo 1º ESO y otra clase virtual para todo 2º ESO.
-	- Oportunidad para la codocencia.
+- Agrupación por curso. 
+- Una clase virtual para todo 1º ESO y otra clase virtual para todo 2º ESO.
+- Oportunidad para la codocencia.
 
 
 ## Nuestra preocupación y la estrategia seguida {data-background-image="assets/clase.jpg" data-background-opacity="0.12"}
@@ -394,15 +468,6 @@ Algunas respuestas del alumnado
 ::::::::::::::
 
 
-## Niveles de interacción en el curso 2020/21 {data-background-image="assets/observation.jpg" data-background-opacity="0.12"}
-
-> Queda pendiente analizar el impacto educativo. Hasta ahora, la percepción es que este alumnado interactúa y presenta una actitud más proactiva ahora que a principios del curso pasado. 
-
-- Ahora es imposible trabajar en mesas enfrentadas y/o agrupadas, por lo que hay que interactuar a distancia. 
-- Parejas o grupos de cuatro alumnos, tal y como están sentados habitualmente.
-- Ayuda de una pizarrita blanca para enseñar lo que se está haciendo.
-
-
 # Una propuesta de evaluación y calificación {data-background-image="assets/horizon.jpg" data-background-opacity="0.22"}
 
 ## Matemáticas en el CPI Val de la Atalaya {data-background-image="assets/horizon.jpg" data-background-opacity="0.18"}
@@ -411,7 +476,7 @@ La evaluación será, en su mayor parte, de carácter formativo, y tendrá lugar
 
 - Observación del trabajo del alumnado
 	- Listas de control.
-	- Diario de aula,
+	- Diario de aula.
 - Evaluación de las producciones del alumnado: 
 	- Tareas generales de aula, 
 	- Tareas específicas de evaluación 
@@ -437,7 +502,8 @@ La evaluación será, en su mayor parte, de carácter formativo, y tendrá lugar
 :::
 
 ::::::::::::::
-	
+
+
 
 ## Tareas generales de aula {data-background-image="assets/horizon.jpg" data-background-opacity="0.18"}
 
@@ -516,41 +582,15 @@ Un ejemplo de rúbrica de autoevaluación es el siguiente:
 
 ![](assets/images/cuaderno1.jpg){width=50%}
 
-## Ejemplo de autoevaluación específica {data-background-image="assets/horizon.jpg" data-background-opacity="0.18"}
 
-:::::::::::::: {.columns}
 
-::: {.column width="50%"}
+## Cultura de aula {data-background-image="assets/horizon.jpg" data-background-opacity="0.18"}
 
-![](assets/images/autoesp2.jpg){width=100%}
+![](assets/images/porcentaje1.png){width=100%}
 
-:::
+## Cultura de aula {data-background-image="assets/horizon.jpg" data-background-opacity="0.18"}
 
-::: {.column width="50%"}
-
-![](assets/images/autoesp3.jpg){width=100%}
-
-:::
-
-::::::::::::::
-
-## Ejemplo de autoevaluación específica {data-background-image="assets/horizon.jpg" data-background-opacity="0.18"}
-
-:::::::::::::: {.columns}
-
-::: {.column width="50%"}
-
-![](assets/images/autoesp4.jpg){width=100%}
-
-:::
-
-::: {.column width="50%"}
-
-![](assets/images/autoesp1.jpg){width=100%}
-
-:::
-
-::::::::::::::
+![](assets/images/porcentaje2.png){width=100%}
 
 
 ## Tareas específicas de evaluación de cuaderno {data-background-image="assets/horizon.jpg" data-background-opacity="0.18"}
@@ -586,15 +626,167 @@ Cuando existan desviaciones entre las autoevaluaciones y la observación del tra
 - No obstante, esta criterio tiene **carácter orientativo**, y se complementará con una **valoración cualitativa** del grado de consecución de los estándares de aprendizaje evaluables, atendiendo a cuáles son mínimos exigibles y cuáles no, especialmente en aquellos casos en los que el alumnado se encuentre entre dos valores. 
 :::
 
-## Propuesta completa en Twitter {data-background-image="assets/horizon.jpg" data-background-opacity="0.18"}
 
-También encontraréis todo esto desarrollado en Twitter y en mi blog. 
+# Ejemplo con el teorema de Pitágoras {data-background-image="assets/geometria.png" data-background-opacity="0.18"}
 
-[Hilo en Twitter](https://twitter.com/pbeltranp/status/1322861015676182528)
+## ¿Qué es ver el currículo? {data-background-image="assets/geometria.png" data-background-opacity="0.18"}
 
-[Versión blog](https://tierradenumeros.com/post/hilo-evaluacion-calificacion-propuesta-completa/)
+:::::::::::::: {.columns}
 
-![](assets/end.jpg){width=30%}
+::: {.column width="45%"}
+
+> Toca ponerse con «el teorema de Pitágoras», digamos en 2º ESO (13-14 años). Dos opciones.
+
+![](assets/images/curriculo.gif){width=70%}
+
+:::
+
+::: {.column width="45%"}
+
+
+a. $a^2+b^2=c^2$
+b. Calcula el área de este cuadrado.
+
+![](assets/images/pitagoras01.png){width=95%}
+
+:::
+
+::::::::::::::
+
+## Significados personales {data-background-image="assets/geometria.png" data-background-opacity="0.18"}
+
+:::::::::::::: {.columns}
+
+::: {.column width="45%"}
+
+Ponte en la piel de alguien que no conoce el teorema de Pitágoras.
+
+- Desde alumnos que señalan que el lado del cuadrado mide 5 unidades.
+- Hasta diferentes tipos de descomposiciones.
+
+:::
+
+::: {.column width="45%"}
+
+![](assets/images/pitagoras01.png){width=95%}
+
+:::
+
+::::::::::::::
+
+Las actividades que se mostrarán están adaptadas de [nrich](https://nrich.maths.org/) y de la unidad  [«Discovering the Pythagorean Theorem»](https://www.map.mathshell.org/lessons.php?unit=8315&collection=8) del Mathematics Assessment Project (Shell).
+
+## Suelo bajo y techo alto  {data-background-image="assets/geometria.png" data-background-opacity="0.18"}
+
+- Esto es el suelo bajo de la secuencia porque es accesible para todos. 
+- Esta tarea podría llevármela a 4º de Primaria.
+
+En nuestro caso, además, conecta con una actividad anterior sobre medida de áreas.
+
+![](assets/images/pick.jpg){width=75%}
+
+## Diferentes razonamientos {data-background-image="assets/geometria.png" data-background-opacity="0.18"}
+
+![](assets/images/pitagoras02.jpg){width=70%}
+
+![](assets/images/pitagoras03.png){width=70%}
+
+
+## {data-background-image="assets/geometria.png" data-background-opacity="0.18"}
+
+:::::::::::::: {.columns}
+
+::: {.column width="45%"}
+
+Siguiente tarea. Vamos a asegurarnos de que sabemos dibujar estos cuadrados inclinados y calcular el área. Hagamos el $(3,7)$ y el $(2,3)$.
+
+![](assets/images/pitagoras04.jpg){width=95%}
+
+:::
+
+::: {.column width="45%"}
+
+Tarea necesaria, porque hubo alguna dificultad para dibujarlos. Por esto no conviene promover los cuadernos especialmente pulcros, sin registro de lo que ha podido pasar.
+
+![](assets/images/pitagoras05.png){width=85%}
+
+:::
+
+::::::::::::::
+
+## En camino hacia la generalización {data-background-image="assets/geometria.png" data-background-opacity="0.18"}
+
+Conexiones, esta vez, con álgebra. Se trata de dibujar a mano alzada un cuadrado $(3,b)$ y calcular su área.
+
+![](assets/images/pitagoras06.png){width=100%}
+
+## Dos cuestiones, realmente {data-background-image="assets/geometria.png" data-background-opacity="0.18"}
+
+- Dibujar el cuadrado $(3,b)$ «general». 
+- Y, por otro, calcular su área, para la que les hacía falta la del cuadrado inscrito, que algebraicamente es $(b+3)^2$.
+
+![](assets/images/pitagoras07.png){width=100%}
+
+## Preguntas y más preguntas {data-background-image="assets/geometria.png" data-background-opacity="0.18"}
+
+Cuestiones que tienen que responder y que luego discutimos. 
+
+a. ¿Puedes encontrar el área de cada uno?
+b. Puedes encontrar un método para encontrar el área de cualquiera?
+c. Calcula el área de los primeros 6 cuadrados obtenidos con el mismo método.
+d. ¿Qué observas en esta serie de números que representan las áreas de estos cuadrados?
+
+
+![](assets/images/pitagoras08.png){width=75%}
+
+
+## Puesta en común {data-background-image="assets/geometria.png" data-background-opacity="0.18"}
+
+:::incremental
+a. ¿Puedes construir la siguiente fila (la que tiene para la $b$ el valor 5)?
+b. ¿Y la fila correspondiente a $b$ con valor 10?
+c. ¿Y ahora puedes escribir cuál será el área para un cuadrado $(a,b)$?
+:::
+
+![](assets/images/pitagoras09.png){width=85%}
+
+## Conexión final {data-background-image="assets/geometria.png" data-background-opacity="0.18"}
+
+:::incremental
+a. Compara las áreas de la parte sombreada y explica tu método.
+b. Si el lado del cuadrado gris de la izquierda mide $c$, indica el área de ese cuadrado y escribe de nuevo las conclusiones del apartado anterior.
+:::
+
+![](assets/images/pitagoras10.png){width=85%}
+
+## Autoevaluación {data-background-image="assets/geometria.png" data-background-opacity="0.18"}
+
+![](assets/images/pitagoras11.png){width=100%}
+
+## Autoevaluación {data-background-image="assets/geometria.png" data-background-opacity="0.18"}
+
+![](assets/images/pitagoras13.png){width=95%}
+
+![](assets/images/pitagoras14.png){width=95%}
+
+## Autoevaluación {data-background-image="assets/geometria.png" data-background-opacity="0.18"}
+
+![](assets/images/pitagoras15.png){width=85%}
+
+![](assets/images/pitagoras16.png){width=85%}
+
+
+# Conclusión {data-background-image="assets/conclusiones.jpg" data-background-opacity="0.18"}
+
+## Para terminar {data-background-image="assets/conclusiones.jpg" data-background-opacity="0.18"}
+
+- ¿Somos coherentes?
+- ¿Cómo evalúo?
+- ¿La evaluación que planteo es formativa? Es decir, ¿sirve para el aprendizaje?
+- Si tengo que calificar, ¿cómo puedo hacerlo de manera que no interfiera?
+
+> Ante todo, ¡recordar que esto es una propuesta que puede ser modificada e incorporar otros elementos!
+
 
 
 # Créditos y referencias {data-background-image="assets/credits.jpg" data-background-opacity="0.1"}
@@ -623,7 +815,19 @@ Gairín, J.M., Muñoz-Escolano, J.M., Oller-Marcén, A.M. (2012). Propuesta de u
 
 Gaulin, C. (2001). Tendencias actuales de la resolución de problemas. _Sigma, 19_, 51-63. [Enlace](http://www.hezkuntza.ejgv.euskadi.eus/r43-573/es/contenidos/informacion/dia6_sigma/es_sigma/adjuntos/sigma_19/7_Tendencias_Actuales.pdf)
 
+## Lista de referencias {data-background-image="assets/credits.jpg" data-background-opacity="0.1"}
+
+Goos, M. (2014). Mathematics Classroom Assessment. In S. Lerman (Ed.), *Encyclopedia of Mathematics Education* (pp. 413–417). Springer Netherlands. 
+
+Liljedahl, P. (2010). The Four Purposes of Assessment. *Vector, 2*, 7–12.
+
+Ohlsen, M. T. (2007). Classroom Assessment Practices of Secondary School Members of NCTM. *American Secondary Education, 36*(1), 4–14.
+
+## Lista de referencias {data-background-image="assets/credits.jpg" data-background-opacity="0.1"}
+
 Swan, M. (1989). *El lenguaje de funciones y gráficas*. Shell Centre.[Descargar](https://sede.educacion.gob.es/publiventa/el-lenguaje-de-funciones-y-graficas/pedagogia/1065)
+
+van den Heuvel-Panhuizen, M., and Becker, J. (2003). Towards a didactic model for assessment design in mathematics education. In *Second international handbook of mathematics education* (pp. 689–716). Springer.
 
 ## Créditos {data-background-image="assets/credits.jpg" data-background-opacity="0.1"}
 
